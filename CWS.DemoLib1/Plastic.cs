@@ -9,5 +9,6 @@ namespace CWS.DemoLib1
     public class Plastic
     {
         public int PlasticId { get; set; }
+        public int P1 { get; set; }
     }
 }
