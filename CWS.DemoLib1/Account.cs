@@ -6,7 +6,7 @@
         public decimal CurrentBalance { get; set; }
         public decimal CreditLimit { get; set; }
         public decimal AvailableCredit { get; set; }
-
+        public string CardHolderName { get; set; }
 
 
     }
